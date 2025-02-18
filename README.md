@@ -21,9 +21,7 @@ Ensure you have a Google account to access Google Colab.
    - Upload your dataset.
 3. Run the code:
 4. Generate drug recommendations:
-   ```python
    - Use test reviews from the drugsComTest_raw to generate top 3 drug recommendations
-   ```
 
 ## Data Preprocessing
 - **HTML Tag Removal**: Eliminates unnecessary HTML elements.
