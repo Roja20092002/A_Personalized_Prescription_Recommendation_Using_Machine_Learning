@@ -44,15 +44,20 @@ Ensure you have a Google account to access Google Colab.
 
 ## Example Usage in Google Colab
 ```python
---review "I have been experiencing anxiety and need medication recommendations."
+--review "I have only been on Tekturna for 9 days. The effect was immediate. I am also on
+a calcium channel blocker (Tiazac) and hydrochlorothiazide. I was put on
+Tekturna because of palpitations experienced with Diovan (ugly drug in my
+opinion, same company produces both however). The palpitations were pretty bad
+on Diovan, 24 hour monitor by EKG etc. After a few days of substituting Tekturna
+for Diovan, there are no more palpitations."
 ```
 **Output:**
 ```
-Condition: Anxiety
+Condition: High Blood Pressure
 
 Top 3 Suggested Drugs:
 
-Xanax
-Sertraline
-Prozac
+Losartan
+Aldactone
+Spironolactone
 ```
