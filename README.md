@@ -49,5 +49,10 @@ Ensure you have a Google account to access Google Colab.
 **Output:**
 ```
 Condition: Anxiety
-Top 3 Suggested Drugs: Xanax, Sertraline, Prozac
+
+Top 3 Suggested Drugs:
+
+Xanax
+Sertraline
+Prozac
 ```
