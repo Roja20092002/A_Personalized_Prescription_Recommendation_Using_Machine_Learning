@@ -1,7 +1,7 @@
 # MedInsight: A Personalized Prescription Recommendation Using Machine Learning
 ---
 ## Overview
-MedInsight is a Machine Learning-based system designed to provide personalized prescription recommendations by analyzing patient reviews using Natural Language Processing (NLP) techniques. The system leverages various classification models to extract insights from patient-generated data and recommend suitable medications based on medical conditions.
+### MedInsight is a Machine Learning-based system designed to provide personalized prescription recommendations by analyzing patient reviews using Natural Language Processing (NLP) techniques. The system leverages various classification models to extract insights from patient-generated data and recommend suitable medications based on medical conditions.
 ---
 ## Features
 - **Personalized Drug Recommendations**: Uses patient reviews to classify medical conditions and suggest appropriate medications.
